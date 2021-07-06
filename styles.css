@@ -1,0 +1,63 @@
+.img-tiger{
+    height: 580px;
+    max-width: 100%;
+}
+
+.inner-container{
+    padding: 5%;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    bottom: 70%;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;    
+}
+
+.img-lion-paw{
+    width: 70%;
+}
+
+#bottom-container{
+    background-color:#E3E3E3;
+    text-align: center;
+    padding-bottom: 5px;;
+}
+
+.fab:hover{
+    background-color: coral;
+}
+
+.fab{
+    padding: 10px;
+}
+
+
+
+.contact-us{
+    padding-top: 1.5%;
+    padding-left: 0%;
+    margin-left: 0%;
+}
+
+.heading{
+    font-weight: bold;
+}
+
+.heading-para{
+font-weight: 600;
+}
+
+.contact-us-sub{
+    font-size: 10px;
+    margin-top: 0%;
+
+}
+
+.para:hover{
+ color: coral;
+}
+
+.navbar-brand{
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: bold;;  
+}
